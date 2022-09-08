@@ -1,0 +1,2 @@
+# Okechi
+Github skillup excersise
